@@ -22,9 +22,10 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## DEMO video
 
-[This is the link to the Demo Video](VIDEO PLACEHOLDER)
+[This is the link to the Demo Video](https://drive.google.com/file/d/1dzHN2mnpM7Thi-YO3CmEfo9NFPPWOR3w/view)
 
 ## GitHub REPO
 
 [Link to Project](https://github.com/MelissaLycan/Ecommerce-DataBase.git)
+
 # Ecommerce-DataBase
